@@ -1,1 +1,11 @@
 # Consistent-hashing
+![image](./asset/a.jpeg)
+![image](./asset/b.jpeg)
+![image](./asset/c.jpeg)
+![image](./asset/d.jpeg)
+![image](./asset/e.jpeg)
+![image](./asset/f.jpeg)
+![image](./asset/g.jpeg)
+![image](./asset/h.jpeg)
+![image](./asset/i.jpeg)
+![image](./asset/j.jpeg)
